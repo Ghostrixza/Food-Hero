@@ -4,6 +4,16 @@ body {
     margin: 0;
 }
 
+#fdiv{
+    margin-top:  80px;
+    margin-left: 30px;
+}
+
+#fsec{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+}
+
 #h1{
     font-size: 50px;
 }
@@ -33,13 +43,25 @@ body {
     border-radius: 60px;
 }
 
-#fdiv{
-    margin-top:  80px;
-    margin-left: 30px;
+
+
+#ssec{
+    background-image: url(images/Frame\ 58.jpg);
+    background-size: cover;
+    position: absolute;
+    display: flex;
 }
 
-#fsec{
-    display: flex;
-    margin-bottom: 150px;
-    background-image: url(images/shapes/7.png);
+#sdiv{
+    width: 60%;
+}
+
+#imgdiv img{
+    width: 50%;
+       
+}
+
+#prt{
+    font-size: 50px;
+    color: rgb(242, 101, 237);
 }

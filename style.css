@@ -55,19 +55,23 @@ body {
 #sdiv{
     width: 60%;
 }    
+
 #prt{
     font-size: 50px;
     color: rgb(242, 101, 237);
 }
+
 #mrgme{
     height: 350px;
     margin-top: 62px;
     margin-right: 0;
 }
+
 #mrghe{
     margin-top: 98px;
     width: 347px;
 }
+
 #mrgshe{
     margin-top: 100px;
 }
@@ -75,9 +79,11 @@ body {
 .nme{
     color: rgb(223, 1, 215);
 }
+
 .text{
     color: rebeccapurple;
 }
+
 .bttn{
     text-decoration: none;
     color: whitesmoke;
@@ -86,10 +92,12 @@ body {
     border-radius: 60px;
     margin-left: 27%;
 }
+
 .usdiv{
     width: 50%;
     margin-bottom: 60px;
 }
+
 .usdiv img{
     max-width: 100%;
     max-height: 100%;
@@ -98,42 +106,100 @@ body {
 
 
 
-.tsec{
-    background-color:rgb(252, 206, 214);
-    background-size: cover;
-}
+
 #titl{
     font-size: 50px;
     text-align: center;
     color: rgb(0, 0, 0);
 }
+
 #reptxtdiv{
     text-align: center;
     display: flex;
 }
+
 #txt{
     text-align: center;
     color: rgb(0, 0, 0);
     margin-bottom: 0;
 }
+
 #aldiv{
     display: flex;
 }
+
+.tsec{
+    background-color:rgb(252, 206, 214);
+    background-size: cover;
+}
+
 .reptxt{
     color: rgb(79, 3, 89);
     font-size: 30px;
     font-weight: 600;
 
 }
+
 .shddiv{
     width: 40%;
     margin-left: 2%;
     margin-right: 2%;
+    margin-bottom: 5%;
     padding: 2%;
     border-radius: 15px;
     box-shadow: 10px 10px 30px gray;
-    border: 5px dotted rgb(255, 84, 255);
+    border: 3px dashed rgb(255, 84, 255);
 }
+
 .shddiv img{
     width: 100%;
+}
+
+
+
+
+
+
+
+#ffsec{
+    background-image: url(images/solid-color-image.png);
+    background-size: cover;
+    display: flex;
+}
+
+#ffsec img{
+    width: 100%;
+}
+
+.fftxt{
+    text-align: center;
+    font-size: 55px;
+    color: gainsboro;
+    margin-bottom: 0;
+}
+
+#ffp{
+    margin-top: 0;
+    text-align: center;
+    font-size: 40px;
+    color: gainsboro;
+}
+
+#clr{
+    color: rgb(6, 6, 28);
+}
+
+#frmdiv{
+    box-shadow: 10px 10px 30px black;
+    color:rgb(196, 196, 196);
+    font-size: 15px;
+}
+
+.frmtxt{
+    margin-left: 10px;
+    color: rgb(191, 191, 191);
+}
+
+input{
+    margin-left: 20px;
 }

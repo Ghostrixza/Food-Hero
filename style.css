@@ -11,7 +11,8 @@ body {
 
 #fsec{
     display: flex;
-    background-image: url(images/shapes/7.png);
+    background-image: url(images/Frame\ 57.jpg);
+    background-size: cover;
 }
 
 #h1{
@@ -19,7 +20,7 @@ body {
 }
 
 #name{
-    color: tomato;
+    color: skyblue;
 }
 
 #sp1{
@@ -38,7 +39,7 @@ body {
 .btn{
     text-decoration: none;
     color: whitesmoke;
-    background-image: linear-gradient(rgb(245, 43, 7),rgb(240, 106, 17));
+    background-image: linear-gradient(skyblue,cyan);
     padding: 10px 20px;
     border-radius: 60px;
 }
@@ -56,12 +57,24 @@ body {
     width: 60%;
 }
 
-#imgdiv img{
-    width: 50%;
-       
-}
+#img img{
+    width:20%;
+    display: inline-block;
+}      
 
 #prt{
     font-size: 50px;
     color: rgb(242, 101, 237);
+}
+#me{
+    margin-top: 40px;
+}
+
+#mrghe{
+    margin-top: 166px;
+    margin-left: 150px;
+}
+#mrgshe{
+    margin-top: 171px;
+    margin-left: 150px;
 }

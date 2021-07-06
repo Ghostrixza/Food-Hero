@@ -55,26 +55,45 @@ body {
 
 #sdiv{
     width: 60%;
-}
-
-#img img{
-    width:20%;
-    display: inline-block;
-}      
-
+}    
 #prt{
     font-size: 50px;
     color: rgb(242, 101, 237);
 }
-#me{
-    margin-top: 40px;
+#mrgme{
+    height: 350px;
+    margin-top: 62px;
+    margin-right: 0;
 }
-
 #mrghe{
-    margin-top: 166px;
-    margin-left: 150px;
+    margin-top: 100px;
+    width: 347px;
 }
 #mrgshe{
-    margin-top: 171px;
-    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.nme{
+    color: rgb(223, 2, 215);
+}
+.text{
+    color: rebeccapurple;
+}
+.bttn{
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(orchid,rgb(247, 51, 247));
+    padding: 10px 20px;
+    border-radius: 60px;
+}
+.usdiv{
+    width: 50%;
+}
+.usdiv img{
+    max-width: 100%;
+    max-height: 100%;
+    align-content: center;
+    display: block;
+    
+
 }

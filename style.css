@@ -65,7 +65,7 @@ body {
     margin-right: 0;
 }
 #mrghe{
-    margin-top: 100px;
+    margin-top: 98px;
     width: 347px;
 }
 #mrgshe{
@@ -73,7 +73,7 @@ body {
 }
 
 .nme{
-    color: rgb(223, 2, 215);
+    color: rgb(223, 1, 215);
 }
 .text{
     color: rebeccapurple;
@@ -93,14 +93,47 @@ body {
 .usdiv img{
     max-width: 100%;
     max-height: 100%;
-    align-content: center;
 }
 
 
 
 
-#tsec{
-    background-image:url(images/solid-color-image.png);
+.tsec{
+    background-color:rgb(252, 206, 214);
     background-size: cover;
+}
+#titl{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+#reptxtdiv{
+    text-align: center;
     display: flex;
+}
+#txt{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 0;
+}
+#aldiv{
+    display: flex;
+}
+.reptxt{
+    color: rgb(79, 3, 89);
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.shddiv{
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 30px gray;
+    border: 5px dotted rgb(255, 84, 255);
+}
+.shddiv img{
+    width: 100%;
 }

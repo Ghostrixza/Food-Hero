@@ -201,5 +201,38 @@ body {
 }
 
 input{
-    margin-left: 20px;
+    margin-left: 10px;
 }
+
+
+
+
+
+#lstsec{
+    background-color: rgb(53, 53, 53);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 2px;
+}
+
+#fud{
+    color: tomato;
+}
+
+#hro{
+    color: red;
+}
+
+#ftr{
+    bottom: 0;
+    word-spacing: 0.1px;
+    
+}
+
+#fdhr{
+    margin-bottom: 50px;
+}
+#sml{
+    font-size: 12px;
+}
+
